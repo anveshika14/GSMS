@@ -11,3 +11,10 @@ A **Basic Grocery Store Management System** built using **Python (Flask)**, **My
 - Order placement and management
 - Responsive front-end with HTML, CSS, and JavaScript
 - Backend built with Flask and MySQL integration
+
+## 🛠️ Technologies Used
+
+- **Backend**: Python (Flask)
+- **Database**: MySQL
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Tools**: VS Code, MySQL Workbench/PostgreSQL (for DB), Postman (for API testing)
