@@ -2,7 +2,7 @@
 
 A **Basic Grocery Store Management System** built using **Python (Flask)**, **MySQL**, **HTML**, **CSS**, and **JavaScript**. This project allows for basic store operations like product management, user/customer interactions, and order processing through a simple and intuitive web interface.
 
-## 🚀 Features
+### 🚀 Features
 
 - User registration and login
 - Admin dashboard to manage products and categories
@@ -12,7 +12,7 @@ A **Basic Grocery Store Management System** built using **Python (Flask)**, **My
 - Responsive front-end with HTML, CSS, and JavaScript
 - Backend built with Flask and MySQL integration
 
-## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 - **Backend**: Python (Flask)
 - **Database**: MySQL
